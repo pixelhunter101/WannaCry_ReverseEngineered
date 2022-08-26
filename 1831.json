@@ -1,0 +1,1084 @@
+{
+  "filemd5":"84C82835A5D21BBCF75A61706D8AB549",
+  "filename":"1831.bin",
+  "structures": {
+    "cls_0x406c40": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x406c5f",
+	    "0x406ca2",
+	    "0x406cec",
+	    "0x406cfa",
+	    "0x406d1f",
+	    "0x406d32",
+	    "0x406d4a",
+	    "0x406d66",
+	    "0x406d93",
+	    "0x407177",
+	    "0x40717f",
+	    "0x407196",
+	    "0x4071ab",
+	    "0x4071c1",
+	    "0x4071d1",
+	    "0x407216",
+	    "0x40721e",
+	    "0x40723c",
+	    "0x4073b1",
+	    "0x4073e4",
+	    "0x407469"
+	  ]
+	},
+	"0x134": {
+	  "base":false,
+	  "name":"mbr_0x134",
+	  "offset":"0x134",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x406c76", "0x40705a" ]
+	},
+	"0x138": {
+	  "base":false,
+	  "name":"mbr_0x138",
+	  "offset":"0x138",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4071a5", "0x4073ab" ]
+	},
+	"0x13c": {
+	  "base":false,
+	  "name":"mbr_0x13c",
+	  "offset":"0x13c",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4073b8", "0x4073cf", "0x4073de", "0x407402" ]
+	},
+	"0x140": {
+	  "base":false,
+	  "name":"mbr_0x140",
+	  "offset":"0x140",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4072e7" ]
+	},
+	"0x4": {
+	  "base":false,
+	  "name":"mbr_0x4",
+	  "offset":"0x4",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x406c6a",
+	    "0x406c7c",
+	    "0x407168",
+	    "0x407181",
+	    "0x4071b3",
+	    "0x4071d8",
+	    "0x407210",
+	    "0x407223"
+	  ]
+	},
+	"0x8": {
+	  "base":false,
+	  "name":"mbr_0x8",
+	  "offset":"0x8",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x40704b" ]
+	}
+      },
+      "methods": {
+	"0x406c40": {
+	  "demangled_name":"",
+	  "ea":"0x406c40",
+	  "import":false,
+	  "name":"meth_0x406c40",
+	  "type":"meth"
+	},
+	"0x407136": {
+	  "demangled_name":"",
+	  "ea":"0x407136",
+	  "import":false,
+	  "name":"meth_0x407136",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x406c40",
+      "size":324,
+      "vftables": {}
+    },
+    "cls_0x407527": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x406b95",
+	    "0x406c24",
+	    "0x407484",
+	    "0x40748c",
+	    "0x40749d",
+	    "0x40753e"
+	  ]
+	},
+	"0x134": {
+	  "base":false,
+	  "name":"mbr_0x134",
+	  "offset":"0x134",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x407533" ]
+	},
+	"0x138": {
+	  "base":false,
+	  "name":"mbr_0x138",
+	  "offset":"0x138",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x407540", "0x40755d", "0x407576", "0x40757c", "0x40758d" ]
+	},
+	"0x13c": {
+	  "base":false,
+	  "name":"mbr_0x13c",
+	  "offset":"0x13c",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x407546", "0x407590", "0x407596", "0x4075a7" ]
+	},
+	"0x140": {
+	  "base":false,
+	  "name":"mbr_0x140",
+	  "offset":"0x140",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x406ba9" ]
+	},
+	"0x4": {
+	  "base":false,
+	  "name":"mbr_0x4",
+	  "offset":"0x4",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x406b9e", "0x40747e", "0x40748e", "0x40752f" ]
+	}
+      },
+      "methods": {
+	"0x406b8e": {
+	  "demangled_name":"",
+	  "ea":"0x406b8e",
+	  "import":false,
+	  "name":"meth_0x406b8e",
+	  "type":"meth"
+	},
+	"0x40747b": {
+	  "demangled_name":"",
+	  "ea":"0x40747b",
+	  "import":false,
+	  "name":"meth_0x40747b",
+	  "type":"meth"
+	},
+	"0x407527": {
+	  "demangled_name":"",
+	  "ea":"0x407527",
+	  "import":false,
+	  "name":"ctor_0x407527",
+	  "type":"ctor"
+	},
+	"0x407572": {
+	  "demangled_name":"",
+	  "ea":"0x407572",
+	  "import":false,
+	  "name":"meth_0x407572",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x407527",
+      "size":324,
+      "vftables": {}
+    },
+    "cls_0x408180": {
+      "demangled_name":"exception",
+      "members": {},
+      "methods": {
+	"0x40817c": {
+	  "demangled_name":"exception",
+	  "ea":"0x40817c",
+	  "import":true,
+	  "name":"??0exception@@QAE@ABV0@@Z",
+	  "type":"ctor"
+	},
+	"0x408180": {
+	  "demangled_name":"~exception",
+	  "ea":"0x408180",
+	  "import":true,
+	  "name":"??1exception@@UAE@XZ",
+	  "type":"dtor"
+	},
+	"0x408184": {
+	  "demangled_name":"exception",
+	  "ea":"0x408184",
+	  "import":true,
+	  "name":"??0exception@@QAE@ABQBD@Z",
+	  "type":"ctor"
+	}
+      },
+      "name":"cls_0x408180",
+      "size":0,
+      "vftables": {}
+    },
+    "cls_0x408198": {
+      "demangled_name":"type_info",
+      "members": {},
+      "methods": {
+	"0x40774c": {
+	  "demangled_name":"",
+	  "ea":"0x40774c",
+	  "import":false,
+	  "name":"deldtor_0x40774c",
+	  "type":"deldtor"
+	},
+	"0x408198": {
+	  "demangled_name":"~type_info",
+	  "ea":"0x408198",
+	  "import":true,
+	  "name":"??1type_info@@UAE@XZ",
+	  "type":"dtor"
+	}
+      },
+      "name":"cls_0x408198",
+      "size":0,
+      "vftables": {}
+    },
+    "cls_0x4081d8": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"vftptr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"vftptr",
+	  "usages": ["0x40134b", "0x40138b" ]
+	},
+	"0x2c": {
+	  "base":false,
+	  "name":"cls_0x4081ec_0x2c",
+	  "offset":"0x2c",
+	  "parent":false,
+	  "size":20,
+	  "struc":"cls_0x4081ec",
+	  "type":"struc",
+	  "usages": ["0x401319", "0x4013ad", "0x4013db", "0x401455" ]
+	},
+	"0x4": {
+	  "base":false,
+	  "name":"cls_0x4081ec_0x4",
+	  "offset":"0x4",
+	  "parent":false,
+	  "size":20,
+	  "struc":"cls_0x4081ec",
+	  "type":"struc",
+	  "usages": ["0x40130f", "0x4013b9", "0x4013d3", "0x401440", "0x40163a" ]
+	},
+	"0x4c8": {
+	  "base":false,
+	  "name":"mbr_0x4c8",
+	  "offset":"0x4c8",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x401333",
+	    "0x4013e3",
+	    "0x401401",
+	    "0x401409",
+	    "0x40146e",
+	    "0x4015b6",
+	    "0x401634",
+	    "0x401682",
+	    "0x4016b8"
+	  ]
+	},
+	"0x4cc": {
+	  "base":false,
+	  "name":"mbr_0x4cc",
+	  "offset":"0x4cc",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x401339", "0x401410", "0x401421", "0x401429", "0x40147d" ]
+	},
+	"0x4d0": {
+	  "base":false,
+	  "name":"mbr_0x4d0",
+	  "offset":"0x4d0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x40133f", "0x401499" ]
+	},
+	"0x4d4": {
+	  "base":false,
+	  "name":"mbr_0x4d4",
+	  "offset":"0x4d4",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x401345", "0x40148f" ]
+	},
+	"0x54": {
+	  "base":false,
+	  "name":"cls_0x40bc7c_0x54",
+	  "offset":"0x54",
+	  "parent":false,
+	  "size":1112,
+	  "struc":"cls_0x40bc7c",
+	  "type":"struc",
+	  "usages": ["0x401324", "0x40139d", "0x40164a" ]
+	}
+      },
+      "methods": {
+	"0x4012fd": {
+	  "demangled_name":"",
+	  "ea":"0x4012fd",
+	  "import":false,
+	  "name":"ctor_0x4012fd",
+	  "type":"ctor"
+	},
+	"0x40135e": {
+	  "demangled_name":"",
+	  "ea":"0x40135e",
+	  "import":false,
+	  "name":"virt_deldtor_0x40135e",
+	  "type":"deldtor"
+	},
+	"0x40137a": {
+	  "demangled_name":"",
+	  "ea":"0x40137a",
+	  "import":false,
+	  "name":"dtor_0x40137a",
+	  "type":"dtor"
+	},
+	"0x4013ce": {
+	  "demangled_name":"",
+	  "ea":"0x4013ce",
+	  "import":false,
+	  "name":"meth_0x4013ce",
+	  "type":"meth"
+	},
+	"0x401437": {
+	  "demangled_name":"",
+	  "ea":"0x401437",
+	  "import":false,
+	  "name":"meth_0x401437",
+	  "type":"meth"
+	},
+	"0x4014a6": {
+	  "demangled_name":"",
+	  "ea":"0x4014a6",
+	  "import":false,
+	  "name":"meth_0x4014a6",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x4081d8",
+      "size":1240,
+      "vftables": {
+	"0x4081d8": {
+	  "ea":"0x4081d8",
+	  "entries": {
+	    "0": {
+	      "demangled_name":"",
+	      "ea":"0x40135e",
+	      "import":false,
+	      "name":"virt_deldtor_0x40135e",
+	      "offset":0,
+	      "type":"deldtor"
+	    }
+	  },
+	  "length":1,
+	  "vftptr":"0x0"
+	}
+      }
+    },
+    "cls_0x4081ec": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"vftptr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"vftptr",
+	  "usages": ["0x4017ef", "0x40181b" ]
+	},
+	"0x10": {
+	  "base":false,
+	  "name":"mbr_0x10",
+	  "offset":"0x10",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4017eb", "0x4019ee" ]
+	},
+	"0x4": {
+	  "base":false,
+	  "name":"mbr_0x4",
+	  "offset":"0x4",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x4017e2",
+	    "0x401830",
+	    "0x401885",
+	    "0x401898",
+	    "0x4018e0",
+	    "0x4018f0"
+	  ]
+	},
+	"0x8": {
+	  "base":false,
+	  "name":"mbr_0x8",
+	  "offset":"0x8",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x4017e5",
+	    "0x401875",
+	    "0x401894",
+	    "0x4018bc",
+	    "0x4018ca",
+	    "0x4019e8",
+	    "0x401a05"
+	  ]
+	},
+	"0xc": {
+	  "base":false,
+	  "name":"mbr_0xc",
+	  "offset":"0xc",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4017e8", "0x4018ce", "0x4018dc" ]
+	}
+      },
+      "methods": {
+	"0x4017dd": {
+	  "demangled_name":"",
+	  "ea":"0x4017dd",
+	  "import":false,
+	  "name":"ctor_0x4017dd",
+	  "type":"ctor"
+	},
+	"0x4017ff": {
+	  "demangled_name":"",
+	  "ea":"0x4017ff",
+	  "import":false,
+	  "name":"virt_deldtor_0x4017ff",
+	  "type":"deldtor"
+	},
+	"0x40181b": {
+	  "demangled_name":"",
+	  "ea":"0x40181b",
+	  "import":false,
+	  "name":"dtor_0x40181b",
+	  "type":"dtor"
+	},
+	"0x40182c": {
+	  "demangled_name":"",
+	  "ea":"0x40182c",
+	  "import":false,
+	  "name":"meth_0x40182c",
+	  "type":"meth"
+	},
+	"0x401861": {
+	  "demangled_name":"",
+	  "ea":"0x401861",
+	  "import":false,
+	  "name":"meth_0x401861",
+	  "type":"meth"
+	},
+	"0x4018b9": {
+	  "demangled_name":"",
+	  "ea":"0x4018b9",
+	  "import":false,
+	  "name":"meth_0x4018b9",
+	  "type":"meth"
+	},
+	"0x4019e1": {
+	  "demangled_name":"",
+	  "ea":"0x4019e1",
+	  "import":false,
+	  "name":"meth_0x4019e1",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x4081ec",
+      "size":20,
+      "vftables": {
+	"0x4081ec": {
+	  "ea":"0x4081ec",
+	  "entries": {
+	    "0": {
+	      "demangled_name":"",
+	      "ea":"0x4017ff",
+	      "import":false,
+	      "name":"virt_deldtor_0x4017ff",
+	      "offset":0,
+	      "type":"deldtor"
+	    }
+	  },
+	  "length":1,
+	  "vftptr":"0x0"
+	}
+      }
+    },
+    "cls_0x40bc7c": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"vftptr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"vftptr",
+	  "usages": ["0x402a4c", "0x402a6f" ]
+	},
+	"0x10": {
+	  "base":false,
+	  "name":"mbr_0x10",
+	  "offset":"0x10",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402f18" ]
+	},
+	"0x14": {
+	  "base":false,
+	  "name":"mbr_0x14",
+	  "offset":"0x14",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402f41" ]
+	},
+	"0x1e8": {
+	  "base":false,
+	  "name":"mbr_0x1e8",
+	  "offset":"0x1e8",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402bd9", "0x402bea", "0x403211", "0x403822", "0x403859" ]
+	},
+	"0x1ec": {
+	  "base":false,
+	  "name":"mbr_0x1ec",
+	  "offset":"0x1ec",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x403235" ]
+	},
+	"0x1f0": {
+	  "base":false,
+	  "name":"mbr_0x1f0",
+	  "offset":"0x1f0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x40325c" ]
+	},
+	"0x1f4": {
+	  "base":false,
+	  "name":"mbr_0x1f4",
+	  "offset":"0x1f4",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x403288" ]
+	},
+	"0x208": {
+	  "base":false,
+	  "name":"mbr_0x208",
+	  "offset":"0x208",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x402e12",
+	    "0x402e25",
+	    "0x402e59",
+	    "0x403388",
+	    "0x403877",
+	    "0x403914"
+	  ]
+	},
+	"0x20c": {
+	  "base":false,
+	  "name":"mbr_0x20c",
+	  "offset":"0x20c",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x4032e6" ]
+	},
+	"0x210": {
+	  "base":false,
+	  "name":"mbr_0x210",
+	  "offset":"0x210",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x40329f", "0x403315" ]
+	},
+	"0x214": {
+	  "base":false,
+	  "name":"mbr_0x214",
+	  "offset":"0x214",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x403343" ]
+	},
+	"0x28": {
+	  "base":false,
+	  "name":"mbr_0x28",
+	  "offset":"0x28",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x403041", "0x4035ec", "0x403686" ]
+	},
+	"0x2c": {
+	  "base":false,
+	  "name":"mbr_0x2c",
+	  "offset":"0x2c",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402f96" ]
+	},
+	"0x30": {
+	  "base":false,
+	  "name":"mbr_0x30",
+	  "offset":"0x30",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402fcf" ]
+	},
+	"0x34": {
+	  "base":false,
+	  "name":"mbr_0x34",
+	  "offset":"0x34",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x40300c" ]
+	},
+	"0x3c8": {
+	  "base":false,
+	  "name":"mbr_0x3c8",
+	  "offset":"0x3c8",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402b23", "0x402b44", "0x402bf8" ]
+	},
+	"0x3cc": {
+	  "base":false,
+	  "name":"mbr_0x3cc",
+	  "offset":"0x3cc",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x402b14",
+	    "0x402b2f",
+	    "0x402b63",
+	    "0x402b75",
+	    "0x402b9a",
+	    "0x40353c",
+	    "0x4037c4",
+	    "0x403ab0",
+	    "0x403af2",
+	    "0x403b05",
+	    "0x403b5a",
+	    "0x403b6d",
+	    "0x403b9c"
+	  ]
+	},
+	"0x3d0": {
+	  "base":false,
+	  "name":"mbr_0x3d0",
+	  "offset":"0x3d0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402b1d" ]
+	},
+	"0x3f0": {
+	  "base":false,
+	  "name":"mbr_0x3f0",
+	  "offset":"0x3f0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402b35", "0x403ae3", "0x403af8", "0x403b42", "0x403b60" ]
+	},
+	"0x4": {
+	  "base":false,
+	  "name":"mbr_0x4",
+	  "offset":"0x4",
+	  "parent":false,
+	  "size":1,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x402a48",
+	    "0x402e73",
+	    "0x402e8a",
+	    "0x4031c8",
+	    "0x40351a",
+	    "0x4037a2",
+	    "0x403a2e",
+	    "0x403a84"
+	  ]
+	},
+	"0x410": {
+	  "base":false,
+	  "name":"mbr_0x410",
+	  "offset":"0x410",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x402b55",
+	    "0x402b94",
+	    "0x402ba8",
+	    "0x402bc7",
+	    "0x402bd1",
+	    "0x402bf0",
+	    "0x402c02",
+	    "0x402c82",
+	    "0x402dd3",
+	    "0x402e07",
+	    "0x402e6b",
+	    "0x402f36",
+	    "0x40327d",
+	    "0x4035dd",
+	    "0x4036bb",
+	    "0x4036f2",
+	    "0x403868",
+	    "0x403949",
+	    "0x403980"
+	  ]
+	},
+	"0x414": {
+	  "base":false,
+	  "name":"mbr_0x414",
+	  "offset":"0x414",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x402c17",
+	    "0x402c2e",
+	    "0x402c36",
+	    "0x402c3d",
+	    "0x402c43",
+	    "0x402c56",
+	    "0x402c68",
+	    "0x402c91",
+	    "0x402d05",
+	    "0x402d25",
+	    "0x402d3b",
+	    "0x402daf",
+	    "0x402dbd",
+	    "0x402de4"
+	  ]
+	},
+	"0x418": {
+	  "base":false,
+	  "name":"mbr_0x418",
+	  "offset":"0x418",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402d1c", "0x402d28", "0x402d34", "0x402d3e" ]
+	},
+	"0x420": {
+	  "base":false,
+	  "name":"mbr_0x420",
+	  "offset":"0x420",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402d46" ]
+	},
+	"0x424": {
+	  "base":false,
+	  "name":"mbr_0x424",
+	  "offset":"0x424",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402d95", "0x402d9c" ]
+	},
+	"0x428": {
+	  "base":false,
+	  "name":"mbr_0x428",
+	  "offset":"0x428",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402d8f", "0x402d9f" ]
+	},
+	"0x434": {
+	  "base":false,
+	  "name":"mbr_0x434",
+	  "offset":"0x434",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x403613",
+	    "0x403688",
+	    "0x40369b",
+	    "0x4038a1",
+	    "0x403916",
+	    "0x403929"
+	  ]
+	},
+	"0x454": {
+	  "base":false,
+	  "name":"mbr_0x454",
+	  "offset":"0x454",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": [
+	    "0x403592",
+	    "0x4035ad",
+	    "0x4035b5",
+	    "0x4035bc",
+	    "0x4035c4",
+	    "0x4035d3",
+	    "0x4036a2",
+	    "0x4036d9",
+	    "0x40381a",
+	    "0x403838",
+	    "0x403840",
+	    "0x403847",
+	    "0x40384f",
+	    "0x40385e",
+	    "0x403930",
+	    "0x403967"
+	  ]
+	},
+	"0x457": {
+	  "base":false,
+	  "name":"mbr_0x457",
+	  "offset":"0x457",
+	  "parent":false,
+	  "size":1,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x403675", "0x40370e", "0x403903", "0x40399f" ]
+	},
+	"0x8": {
+	  "base":false,
+	  "name":"mbr_0x8",
+	  "offset":"0x8",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402bb3", "0x402bc1", "0x402ed5", "0x40359a", "0x4035ce" ]
+	},
+	"0xc": {
+	  "base":false,
+	  "name":"mbr_0xc",
+	  "offset":"0xc",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x402ef6" ]
+	}
+      },
+      "methods": {
+	"0x402a46": {
+	  "demangled_name":"",
+	  "ea":"0x402a46",
+	  "import":false,
+	  "name":"ctor_0x402a46",
+	  "type":"ctor"
+	},
+	"0x402a53": {
+	  "demangled_name":"",
+	  "ea":"0x402a53",
+	  "import":false,
+	  "name":"virt_deldtor_0x402a53",
+	  "type":"deldtor"
+	},
+	"0x402a6f": {
+	  "demangled_name":"",
+	  "ea":"0x402a6f",
+	  "import":false,
+	  "name":"dtor_0x402a6f",
+	  "type":"dtor"
+	},
+	"0x402a76": {
+	  "demangled_name":"",
+	  "ea":"0x402a76",
+	  "import":false,
+	  "name":"meth_0x402a76",
+	  "type":"meth"
+	},
+	"0x402e7e": {
+	  "demangled_name":"",
+	  "ea":"0x402e7e",
+	  "import":false,
+	  "name":"meth_0x402e7e",
+	  "type":"meth"
+	},
+	"0x4031bc": {
+	  "demangled_name":"",
+	  "ea":"0x4031bc",
+	  "import":false,
+	  "name":"meth_0x4031bc",
+	  "type":"meth"
+	},
+	"0x40350f": {
+	  "demangled_name":"",
+	  "ea":"0x40350f",
+	  "import":false,
+	  "name":"meth_0x40350f",
+	  "type":"meth"
+	},
+	"0x403797": {
+	  "demangled_name":"",
+	  "ea":"0x403797",
+	  "import":false,
+	  "name":"meth_0x403797",
+	  "type":"meth"
+	},
+	"0x403a28": {
+	  "demangled_name":"",
+	  "ea":"0x403a28",
+	  "import":false,
+	  "name":"meth_0x403a28",
+	  "type":"meth"
+	},
+	"0x403a77": {
+	  "demangled_name":"",
+	  "ea":"0x403a77",
+	  "import":false,
+	  "name":"meth_0x403a77",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x40bc7c",
+      "size":1112,
+      "vftables": {
+	"0x40bc7c": {
+	  "ea":"0x40bc7c",
+	  "entries": {
+	    "0": {
+	      "demangled_name":"",
+	      "ea":"0x402a53",
+	      "import":false,
+	      "name":"virt_deldtor_0x402a53",
+	      "offset":0,
+	      "type":"deldtor"
+	    }
+	  },
+	  "length":1,
+	  "vftptr":"0x0"
+	}
+      }
+    }
+  },
+  "vcalls": {},
+  "version":"2.2.0"
+}
