@@ -1,6 +1,6 @@
 from Crypto.Cipher import AES
 # passing the first 16 bytes from the decrypted AES_Encrypted_Key
-key = bytes.fromhex()
+key = bytes.fromhex("bee19b98d2e5b12211ce211eecb13de6")
 #Empty space to apply cipher
 emp = 16 * b'\x00'
 #initialize the cipher
